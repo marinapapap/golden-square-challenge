@@ -8,5 +8,5 @@ RSpec.describe Counter do
       result = counter.report
       expect(result).to eq "Counted to 1 so far."
     end
-    
+
 end

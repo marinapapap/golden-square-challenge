@@ -11,5 +11,5 @@ require 'report_length'
     result = report_length("it")
     expect(result).to eq "This string was 2 characters long."
     end
-
+    
 end
